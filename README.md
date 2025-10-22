@@ -135,7 +135,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 ## 🚀 Como Reproduzir
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/rickcolettohub/Film-Data-Analysis
+   git clone https://github.com/rickcolettohub/Film-Data-Analysis.git
 
 2. Instale as dependências:
     ```bash
