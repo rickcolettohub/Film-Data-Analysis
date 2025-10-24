@@ -29,7 +29,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 
 ### Insights Gerais
 
-![overview](reports/figures/01_overview.jpg)
+![overview](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348933/01_overview_bhfhxf.jpg)
 
 ### 1. Quais são os gêneros e produtoras que mais movimentam dinheiro?
 - Podemos concluir os gêneros que mais faturam em média são:
@@ -67,7 +67,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 
 - Filmes de Aventura e Familiares tem um faturamento alto, apesar de, sequer aparecerem no top 10 em termos de quantidade.
 
-![genres-money](reports/figures/02_genres-money.jpg)
+![genres-money](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348934/02_genres-money_zqskzr.jpg)
 
 ### 2. Quais são as produtoras que mais faturam e investem em seus filmes?
 - As produtoras com maior faturamento total são:
@@ -94,7 +94,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
     - Em segundo lugar temos Aamir Khan Productions, que representa o cinema de bolywood com um lucro bastante significativo.
     - Seguidos da AVCO Embassy Pictures, Georgetown Production, estudios que tiveram filmes de terror de baixo orçamento muito bem sucedidos e Provident Films com filmes de baixo orçamento de Drama.
 
-![prod-money](reports/figures/03_prod-money.jpg)
+![prod-money](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348935/03_prod-money_pittw9.jpg)
 
 ### 3. Quais são os filmes que mais faturaram e quais são os filmes que melhor se posicionam em votos?
 - Os Filmes campeões de faturamento são:
@@ -118,7 +118,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
     - Forest Gump
     - Avengers: Guerra Infinita
 
-![film-insights](reports/figures/04_film-insights.jpg)
+![film-insights](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348936/04_film-insights_xrmwkp.jpg)
 
 ### 4. Como é o desempenho financeiro e notas dos filmes ao longo do tempo?
 - Podemos notar que o crescimento da industria cinematográfica foi exponencial. A partir dos anos 70, a tendencia de crescimento do faturamento, e por consequência a margem de lucro, tornou a industria do cinema cada vez mais forte. 
@@ -127,7 +127,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 
 - Quanto as notas, existe uma tendencia a filmes mais antigos performarem melhor. Interessente notar que no exato ano de 1929, as notas médias são anomalamente mais baixa que todos os outros períodos. Isso pode reformar a explicação da nostalgia ser um motivo que coloca filmes mais antigos em pontuações melhores, considerando que em 29 houve uma grande crise nos Estados Unidos.
 
-![period-insights](reports/figures/05_period-insights.jpg)
+![period-insights](https://res.cloudinary.com/ds3ffslpr/image/upload/v1761348933/05_period-insights_zkldwx.jpg)
 
 ## 🚀 Como Reproduzir
 1. Clone este repositório:
