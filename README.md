@@ -29,8 +29,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 
 ### Insights Gerais
 
-<img src="reports/figures/01_overview.jpg" alt="Description of image">
-
+![overview](reports/figures/01_overview.jpg)
 
 ### 1. Quais são os gêneros e produtoras que mais movimentam dinheiro?
 - Podemos concluir os gêneros que mais faturam em média são:
