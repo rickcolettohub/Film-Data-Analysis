@@ -67,8 +67,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 
 - Filmes de Aventura e Familiares tem um faturamento alto, apesar de, sequer aparecerem no top 10 em termos de quantidade.
 
-<img src="reports/figures/02_genres-money.jpg" alt="Description of image">
-
+![genres-money](reports/figures/02_genres-money.jpg)
 
 ### 2. Quais são as produtoras que mais faturam e investem em seus filmes?
 - As produtoras com maior faturamento total são:
@@ -95,7 +94,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
     - Em segundo lugar temos Aamir Khan Productions, que representa o cinema de bolywood com um lucro bastante significativo.
     - Seguidos da AVCO Embassy Pictures, Georgetown Production, estudios que tiveram filmes de terror de baixo orçamento muito bem sucedidos e Provident Films com filmes de baixo orçamento de Drama.
 
-<img src="reports/figures/03_prod-money.jpg" alt="Description of image">
+![prod-money](reports/figures/03_prod-money.jpg)
 
 ### 3. Quais são os filmes que mais faturaram e quais são os filmes que melhor se posicionam em votos?
 - Os Filmes campeões de faturamento são:
@@ -119,8 +118,7 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
     - Forest Gump
     - Avengers: Guerra Infinita
 
-<img src="reports/figures/04_film-insights.jpg" alt="Description of image">
-
+![film-insights](reports/figures/04_film-insights.jpg)
 
 ### 4. Como é o desempenho financeiro e notas dos filmes ao longo do tempo?
 - Podemos notar que o crescimento da industria cinematográfica foi exponencial. A partir dos anos 70, a tendencia de crescimento do faturamento, e por consequência a margem de lucro, tornou a industria do cinema cada vez mais forte. 
@@ -129,16 +127,18 @@ Esse projeto tem como objetivo tratar e analisar dados de filmes principalmente 
 
 - Quanto as notas, existe uma tendencia a filmes mais antigos performarem melhor. Interessente notar que no exato ano de 1929, as notas médias são anomalamente mais baixa que todos os outros períodos. Isso pode reformar a explicação da nostalgia ser um motivo que coloca filmes mais antigos em pontuações melhores, considerando que em 29 houve uma grande crise nos Estados Unidos.
 
-<img src="reports/figures/05_period-insights.jpg" alt="Description of image">
+![period-insights](reports/figures/05_period-insights.jpg)
 
 ## 🚀 Como Reproduzir
 1. Clone este repositório:
    ```bash
    git clone https://github.com/rickcolettohub/Film-Data-Analysis.git
+   ```
 
 2. Instale as dependências:
     ```bash
     pip install -r requirements.txt
+    ```
 
 3. Execute os notebooks na pasta notebooks/.
 
